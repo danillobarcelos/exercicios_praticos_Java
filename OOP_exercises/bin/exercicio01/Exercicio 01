@@ -1,0 +1,12 @@
+Exercício 1: Construtores e modificadores de acesso
+
+Crie uma classe chamada "Pessoa" com os seguintes atributos privados:
+
+nome (String)
+idade (int)
+altura (double)
+A classe deve ter os seguintes métodos públicos:
+
+Um construtor padrão que inicialize os atributos com valores padrão.
+Um construtor que aceite o nome, idade e altura como parâmetros e os atribua aos atributos correspondentes.
+Métodos getter e setter para cada atributo. 

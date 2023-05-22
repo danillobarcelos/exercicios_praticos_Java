@@ -1,0 +1,43 @@
+package exercicio01.application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import exercicio01.entities.Pessoa;
+
+public class Program {
+	public static void main(String[]args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		Pessoa pessoa01 = new Pessoa("João Pedro", 19, 1.80);
+		
+		System.out.println("Nome: " + pessoa01.getNome() + "\nIdade: " 
+		+ pessoa01.getIdade() + "\nAltura: " + pessoa01.getAltura());
+		
+		System.out.println();
+		
+		Pessoa pessoa02;
+		
+		System.out.print("Digite o seu nome: ");
+		String nome = sc.nextLine();
+		System.out.print("Digite a sua idade: ");
+		int idade = sc.nextInt();
+		System.out.print("Digite a sua altura: ");
+		double altura = sc.nextDouble();
+		System.out.println();
+		
+		pessoa02 = new Pessoa();
+		pessoa02.setNome(nome);
+		pessoa02.setIdade(idade);
+		pessoa02.setAltura(altura);
+		
+		System.out.println("Nome: " + pessoa02.getNome() + "\nIdade: " 
+				+ pessoa02.getIdade() + "\nAltura: " + pessoa02.getAltura());
+		
+	
+		sc.close();
+	}
+	
+}

@@ -1,0 +1,26 @@
+package exercicio01.application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import exercicio01.entities.Pessoa;
+
+public class Program {
+	public static void main(String[]args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		Pessoa pessoa01 = new Pessoa("João Pedro", 19, 1.80);
+		
+		System.out.println(pessoa01);
+				
+		
+		
+		
+		
+	
+		sc.close();
+	}
+	
+}

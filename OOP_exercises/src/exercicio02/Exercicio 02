@@ -1,0 +1,8 @@
+Exercício 2: Sobrecarga de métodos
+
+Crie uma classe chamada "Calculadora" com os seguintes métodos públicos:
+
+Um método chamado "soma" que aceite dois inteiros como parâmetros e retorne a soma deles.
+Um método sobrecarregado chamado "soma" que aceite dois doubles como parâmetros e retorne a soma deles.
+Um método sobrecarregado chamado "soma" que aceite três inteiros como parâmetros e retorne a soma dos três.
+Um método sobrecarregado chamado "soma" que aceite três doubles como parâmetros e retorne a soma dos três.

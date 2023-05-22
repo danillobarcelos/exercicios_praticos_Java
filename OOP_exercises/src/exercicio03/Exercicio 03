@@ -1,0 +1,13 @@
+Exercício 3: Modificadores de acesso
+
+Crie uma classe chamada "ContaBancaria" com os seguintes atributos privados:
+
+saldo (double)
+titular (String)
+senha (String)
+A classe deve ter os seguintes métodos públicos:
+
+Um construtor que aceite o saldo, titular e senha como parâmetros e os atribua aos atributos correspondentes.
+Métodos getter para o saldo e o titular.
+Um método chamado "depositar" que aceite um valor como parâmetro e o adicione ao saldo.
+Um método chamado "sacar" que aceite um valor como parâmetro e o subtraia do saldo, desde que o valor seja menor ou igual ao saldo disponível. Caso contrário, exiba uma mensagem de erro.
