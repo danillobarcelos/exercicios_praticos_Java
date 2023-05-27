@@ -1,0 +1,31 @@
+Exercicios sobre Listas gerados pelo chat gpt
+
+Exercício 1: Soma dos elementos
+Escreva um programa que recebe uma lista de números inteiros e retorna a soma de todos os elementos da lista.
+
+Exercício 2: Média dos elementos
+Escreva um programa que recebe uma lista de números inteiros e retorna a média dos elementos da lista.
+
+Exercício 3: Números pares
+Escreva um programa que recebe uma lista de números inteiros e retorna uma nova lista contendo apenas os números pares da lista original.
+
+Exercício 4: Maior elemento
+Escreva um programa que recebe uma lista de números inteiros e retorna o maior elemento da lista.
+
+Exercício 5: Inversão da lista
+Escreva um programa que recebe uma lista de números inteiros e retorna uma nova lista com os elementos da lista original em ordem inversa.
+
+Exercício 6: Remover elementos duplicados
+Escreva um programa que recebe uma lista de números inteiros e remove os elementos duplicados, retornando uma nova lista sem as duplicatas.
+
+Exercício 7: Números primos
+Escreva um programa que recebe uma lista de números inteiros e retorna uma nova lista contendo apenas os números primos da lista original.
+
+Exercício 8: Verificar ordenação
+Escreva um programa que recebe uma lista de números inteiros e verifica se os elementos estão em ordem crescente. O programa deve retornar true se estiverem em ordem crescente e false caso contrário.
+
+Exercício 9: Concatenar listas
+Escreva um programa que recebe duas listas de números inteiros e retorna uma nova lista que contém todos os elementos das duas listas concatenados.
+
+Exercício 10: Contagem de elementos
+Escreva um programa que recebe uma lista de números inteiros e um número alvo, e retorna a quantidade de vezes que o número alvo aparece na lista.
